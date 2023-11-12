@@ -1,0 +1,17 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"warship_db"},
+{"type":"table","name":"warship_data","database":"warship_db","data":
+[
+{"no":"1","name":"USS Enterprise","country":"United States","type":"Aircraft Carrier","class":"Yorktown-class","poster":"https:\/\/postimg.cc\/LJxT8Wc1"},
+{"no":"2","name":"USS New Jersey","country":"United States","type":"Battleship","class":"Iowa-class","poster":"https:\/\/postimg.cc\/jLLNhjmL"},
+{"no":"3","name":"HMS Ark Royal","country":"United Kingdom","type":"Aircraft Carrier","class":"Ark Royal-class","poster":"https:\/\/postimg.cc\/Q95q8dg6"},
+{"no":"4","name":"HMS Belfast","country":"United Kingdom","type":"Light Cruiser","class":"Edinburgh-class","poster":"https:\/\/postimg.cc\/6TFyVhXG"},
+{"no":"5","name":"HMS Queen Elizabeth","country":"United Kingdom\r\n","type":"Battleship","class":"Queen Elizabeth-class","poster":"https:\/\/postimg.cc\/SXw5qGtC"},
+{"no":"6","name":"IJN Akagi","country":"Japan","type":"Aircraft Carrier","class":"Akagi-class","poster":"https:\/\/postimg.cc\/8JgqVHj9"},
+{"no":"7","name":"IJN Shinano","country":"Japan","type":"Aircraft Carrier","class":"Yamato-class","poster":"https:\/\/postimg.cc\/zHX2JP5t"},
+{"no":"8","name":"KMS Roon","country":"German","type":"Armored Cruiser","class":"Roon-class","poster":"https:\/\/postimg.cc\/mhyNjwRk"},
+{"no":"9","name":"KMS Bismarck","country":"German","type":"Batteship","class":"Bismarck-class","poster":"https:\/\/postimg.cc\/xc9gVZgL"}
+]
+}
+]
